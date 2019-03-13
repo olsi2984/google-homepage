@@ -39,3 +39,12 @@ input[type="text"] {
 p {
     text-align: center;
 }
+.Bottom-Right {
+float: right;
+padding-top: 200px
+
+}
+.Bottom-Left {
+float: left;
+padding-top: 200px
+}
